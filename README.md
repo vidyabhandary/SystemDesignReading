@@ -2,7 +2,7 @@
 
 Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
-## Vol 1 - Chapter 8 - DESIGN A URL SHORTENER
+## Vol 1 - Chapter 8 - Design a URL Shortener
 
 #### 1. [Base 64 encoding](https://www.youtube.com/watch?v=aUdKd0IFl34)
 
@@ -22,6 +22,26 @@ Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
 #### 9. 10 to the power of 12 is equal to one terabyte (TB). A terabyte is a unit of digital information storage, and it is defined as 10^12 bytes, which is one trillion bytes. 
 
+---
+
+## Vol 1 - Chapter 7 - Design a Unique ID Generator in Distributed Systems
+
+#### 1. The Obscure System That Syncs All The World’s Clocks - [NTP - The Obscure System That Syncs All The World’s Clocks](https://www.youtube.com/watch?v=2D0v3j3UZ2A)
+
+#### 2. NTP and PTP Explained - [How Computers Synchronize Their Clocks - NTP and PTP Explained](https://www.youtube.com/watch?v=WX5E8x3pYqg)
+
+#### 3. [NTP vs PTP](https://www.youtube.com/watch?v=lOUqOEkDT5I)
+
+#### 4. [Types of UUIDs](https://github.com/vidyabhandary/til/blob/master/misc/UUIDTypes.md)
+
+#### 5. [The Cloudflare Lava Lamps That Help Keep The Internet Secure](https://www.youtube.com/watch?v=1cUUfMeOijg)
+
+#### 6. [Hash Collisions & The Birthday Paradox - Computerphile](https://www.youtube.com/watch?v=jsraR-el8_o)
+
+#### 7. [Birthday Attack Explained](https://www.youtube.com/watch?v=mt55-6e1oGs)
+
+
+----
 
 
 
