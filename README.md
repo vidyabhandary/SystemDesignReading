@@ -2,6 +2,15 @@
 
 Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
+## Vol 1 - Chapter 1 - Scale from zero to millions of users
+
+#### 1. [Response vs Latency](https://www.youtube.com/watch?v=DGVE4T4djUo)
+
+#### 2. [Cache strategies](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
+
+#### 3. [Dependency Injection](https://www.youtube.com/watch?v=yunF2PgJlHU)
+
+
 ## Vol 1 - Chapter 8 - Design a URL Shortener
 
 #### 1. [Base 64 encoding](https://www.youtube.com/watch?v=aUdKd0IFl34)
