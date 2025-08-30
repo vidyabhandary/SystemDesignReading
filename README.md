@@ -10,6 +10,7 @@ Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
 #### 3. [Dependency Injection](https://www.youtube.com/watch?v=yunF2PgJlHU)
 
+----
 
 ## Vol 1 - Chapter 8 - Design a URL Shortener
 
@@ -31,7 +32,7 @@ Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
 #### 9. 10 to the power of 12 is equal to one terabyte (TB). A terabyte is a unit of digital information storage, and it is defined as 10^12 bytes, which is one trillion bytes. 
 
----
+----
 
 ## Vol 1 - Chapter 7 - Design a Unique ID Generator in Distributed Systems
 
@@ -51,7 +52,6 @@ Links from reading Alex Xu System Design book - Volume 1 and Volume 2
 
 
 ----
-
 
 
 ## Vol 2 - Chapter 1
